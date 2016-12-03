@@ -100,5 +100,8 @@ brew install tree
 brew install webkit2png
 brew install zopfli
 
+# Set up some development stuff
+brew install node
+
 # Remove outdated versions from the cellar.
 brew cleanup
