@@ -1,3 +1,11 @@
+# Target
+alias herokuStudioConnectAdminDevTail="heroku logs -t --app batphone-admin-dev"
+alias herokuStudioConnectApiDevTail="heroku logs -t --app batphone-api-dev"
+
+# SSH Commands
+alias sshinterestingrobin="ssh -i ~/.ssh/aws-appease.pem ubuntu@interestingrob.in"
+alias sshwebxr="ssh -i ~/.ssh/aws-appease.pem ubuntu@52.11.165.218"
+
 # Easier navigation: .., ..., ...., ....., ~ and -
 alias ..="cd .."
 alias ...="cd ../.."
